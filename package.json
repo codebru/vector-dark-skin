@@ -1,0 +1,22 @@
+{
+  "name": "vector-dark-skin",
+  "version": "1.0.0",
+  "description": "This is custom CSS for Wikipedia",
+  "main": "none",
+  "scripts": {
+    "build": "lessc src/build.less build/vector.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebru/vector-dark-skin.git"
+  },
+  "author": "Philip Bruland",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/codebru/vector-dark-skin/issues"
+  },
+  "homepage": "https://github.com/codebru/vector-dark-skin#readme",
+  "devDependencies": {
+    "less": "^3.9.0"
+  }
+}
